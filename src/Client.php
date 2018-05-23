@@ -11,7 +11,7 @@ class Client extends Model
      *
      * @var string
      */
-    protected $table = 'oauth_clients';
+    protected $table = 'pp_oauth_clients';
 
     /**
      * The guarded attributes on the model.

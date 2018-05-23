@@ -11,7 +11,7 @@ class PersonalAccessClient extends Model
      *
      * @var string
      */
-    protected $table = 'oauth_personal_access_clients';
+    protected $table = 'pp_oauth_personal_access_clients';
 
     /**
      * The guarded attributes on the model.

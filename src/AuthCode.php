@@ -11,7 +11,7 @@ class AuthCode extends Model
      *
      * @var string
      */
-    protected $table = 'oauth_auth_codes';
+    protected $table = 'pp_oauth_auth_codes';
 
     /**
      * The guarded attributes on the model.
